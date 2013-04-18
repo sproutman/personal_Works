@@ -22,6 +22,7 @@
 #include	<time.h>
 #include	<strings.h>
 #include    <errno.h>
+#include    <string.h>
 
 #include    "socklib.h"
 
